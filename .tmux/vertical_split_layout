@@ -1,0 +1,2 @@
+selectp -t 0    # 选中第0个窗格
+splitw -v -p 15 -c "#{pane_current_path}" # 将其分成左右两个
